@@ -7,7 +7,6 @@ int main()
  scanf("%lld", &n);
  while(n != 0)
  {
-  // n = n/10
   n /= 10;
   ++count;
  }
