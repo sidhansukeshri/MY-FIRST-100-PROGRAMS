@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main() {
     int i,n,p;
+  printf("My regeistration number is RA2211042010032 !");
   printf ("enter the number of which you want the table of :");
   scanf("%d",&n);
   printf ("The table of %d is as follows:-\n ",n);
