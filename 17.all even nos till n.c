@@ -1,5 +1,6 @@
 #include<stdio.h>
  int main(){
+        printf("My regeistration number is RA2211042010032 !");
   	int i, number;
   	printf("\n Please Enter the Maximum Limit Value : ");
   	scanf("%d", &number);
@@ -7,7 +8,7 @@
   	for(i = 1; i <= number; i++)
   	{if ( i % 2 == 0 ) 
     	{
-  			printf(" %d\t", i);
+          printf(" %d\t", i);
     	}
   	}
  	return 0;
