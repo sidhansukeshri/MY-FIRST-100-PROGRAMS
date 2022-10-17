@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main(){
+    printf("My regeistration number is RA2211042010032 !");
     int number1, number2;
     float avg;
     printf("Enter the First Number to find = ");
