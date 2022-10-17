@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<math.h>
  int main() {
+   printf("My regeistration number is RA2211042010032 !");
    float PAmount, ROI, Time_Period, CIFuture, CI;
    printf("\nPlease enter the Principal Amount : \n");
    scanf("%f", &PAmount);
