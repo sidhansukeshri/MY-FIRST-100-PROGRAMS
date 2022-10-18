@@ -1,6 +1,6 @@
 #include <stdio.h>
 char main()
-{
+{   printf("My regeistration number is RA2211042010032 !");
     char ch;
     printf("Enter a lowercase alphabet : ");
     scanf("%c",&ch);
