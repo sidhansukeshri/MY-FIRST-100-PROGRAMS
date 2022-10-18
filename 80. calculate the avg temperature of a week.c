@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main(){
+int main(){printf("My regeistration number is RA2211042010032 !");
    float tempArray[7], sum=0,average;
    int i;
    for(i=0; i<7; i++)
