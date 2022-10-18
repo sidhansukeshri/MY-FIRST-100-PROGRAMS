@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main()
-{
+{   printf("My regeistration number is RA2211042010032 !");
     printf("enter sales price and cost price");
     int a,b;
     scanf("%d %d",&a,&b);
