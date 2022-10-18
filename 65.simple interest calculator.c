@@ -1,6 +1,6 @@
 #include <stdio.h>
 main()
-{
+{   printf("My regeistration number is RA2211042010032 !");
     int p,t;
     float r,si;
     printf("enter a principal,rate,time : \n ");
