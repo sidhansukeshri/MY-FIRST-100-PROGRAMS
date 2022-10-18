@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<math.h>
-int main(){
+int main(){printf("My regeistration number is RA2211042010032 !");
 	long int binNum,rem,n,i,decimal;
 	printf("Enter a Binary Number:");
 	scanf("%ld",&binNum);
