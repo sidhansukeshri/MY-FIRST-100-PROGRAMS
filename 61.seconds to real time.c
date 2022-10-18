@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
-{
+{   printf("My regeistration number is RA2211042010032 !");
     printf("enter time in seconds : ");
     int h,m,s;
     scanf("%d",&s);
