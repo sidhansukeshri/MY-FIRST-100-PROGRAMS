@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-int main() {
+int main() {printf("My regeistration number is RA2211042010032 !");
     int i, j, rows, counter;
     printf("Enter the number of rows of Floyd's triangle\n");
     scanf("%d", &rows);
