@@ -1,6 +1,5 @@
 #include <stdio.h>  
-   
-int main() {  
+   int main() {  printf("My regeistration number is RA2211042010032 !");
     char character;
     printf("Enter a Character\n");  
     scanf("%c", &character);  
