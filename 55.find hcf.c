@@ -1,7 +1,6 @@
 #include<stdio.h>
 main()
-{  
-    
+{   printf("My regeistration number is RA2211042010032 !");
     int a,b,c;
     printf("Enter two number");
     scanf("%d %d",&a,&b);
