@@ -1,7 +1,7 @@
 #include <math.h>
  #define LAMDA 0.001
  main()
- {
+ {printf("My regeistration number is RA2211042010032 !");
  double t;
  float r;
  int i, R;
