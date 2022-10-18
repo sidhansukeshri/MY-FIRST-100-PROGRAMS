@@ -1,6 +1,6 @@
 #include <stdio.h>
 main()
-{
+{   printf("My regeistration number is RA2211042010032 !");
     printf("enter average runs, average wickets");
     int r,w;
     scanf("%d %d",&r,&w);
