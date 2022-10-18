@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
-{
+{     printf("My regeistration number is RA2211042010032 !");
       int i=1,n,s=0;
       printf("Enter number to set range : ");
       scanf("%d",&n);
