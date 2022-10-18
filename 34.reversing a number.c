@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main(){
 int n, r;
+ printf("My regeistration number is RA2211042010032 !");
  printf("Please enter a number: ");
  scanf("%d",&n);
  for(r=0;n>0;n=n/10)
