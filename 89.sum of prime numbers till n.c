@@ -1,5 +1,5 @@
 #include <stdio.h>  
-   int main() {  
+   int main() {printf("My regeistration number is RA2211042010032 !");  
     int counter, N, i, isPrime, primeFactorSum = 0;    
     printf("Enter a Number\n");  
     scanf("%d", &N);   
