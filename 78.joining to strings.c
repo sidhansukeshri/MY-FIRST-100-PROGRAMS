@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 int main()
-{
+{ printf("My regeistration number is RA2211042010032 !");
   char str1[100], str2[100];
   printf("Enter the first string\n");
   gets(str1);
