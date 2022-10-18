@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
-{
+{printf("My regeistration number is RA2211042010032 !");
  double number;
  printf("Enter a number: ");
  scanf("%lf", &number);
