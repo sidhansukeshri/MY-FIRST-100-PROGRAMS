@@ -1,7 +1,7 @@
 
 #include<stdio.h>
 #include<stdlib.h>
- int main() {
+ int main() {printf("My regeistration number is RA2211042010032 !");
     int n, random;
     printf("Enter number of random numbers\n");
     scanf("%d", &n);
