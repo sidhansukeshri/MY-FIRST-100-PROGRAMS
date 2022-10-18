@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main(){
+int main(){printf("My regeistration number is RA2211042010032 !");
   int n,i;
   printf("Enter a number to show natural numbers from 1 to N:");
 	scanf("%d", &n);
