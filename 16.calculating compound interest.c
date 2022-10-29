@@ -1,9 +1,10 @@
+//this code prints the compound interest !
 #include<stdio.h>
 #include<math.h>
  int main() {
-   printf("My regeistration number is RA2211042010032 !");
+   printf("My regeistration number is RA2211042010032 !\n");
    float PAmount, ROI, Time_Period, CIFuture, CI;
-   printf("\nPlease enter the Principal Amount : \n");
+   printf("Please enter the Principal Amount : \n");
    scanf("%f", &PAmount);
    printf("Please Enter Rate Of Interest : \n");
    scanf("%f", &ROI);
