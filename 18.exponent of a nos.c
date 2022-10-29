@@ -1,3 +1,4 @@
+//this code prints the exponent of a given integer!
 #include <stdio.h>
  int main(){
   printf("My regeistration number is RA2211042010032 !");
