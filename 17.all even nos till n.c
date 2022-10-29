@@ -1,6 +1,7 @@
+//this code all even numbers till the value entered by the user !
 #include<stdio.h>
  int main(){
-        printf("My regeistration number is RA2211042010032 !");
+        printf("My regeistration number is RA2211042010032 !\n");
   	int i, number;
   	printf("\n Please Enter the Maximum Limit Value : ");
   	scanf("%d", &number);
