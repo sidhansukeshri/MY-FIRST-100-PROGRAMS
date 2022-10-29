@@ -1,6 +1,7 @@
+//this code checks if entered integer value is even or odd!
 #include <stdio.h>
 int main() {
-    printf("My regeistration number is RA2211042010032 !");
+    printf("My regeistration number is RA2211042010032 !\n");
     int num;
     printf("Enter an integer: ");
     scanf("%d", &num);
