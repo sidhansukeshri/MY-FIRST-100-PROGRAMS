@@ -1,7 +1,8 @@
+//this code prints the sum of n natural numbers!
 #include <stdio.h>
 int main()
 {
-    printf("My regeistration number is RA2211042010032 !");
+    printf("My regeistration number is RA2211042010032 !\n");
     int n, count, sum = 0;
     printf("Enter the value of n(positive integer): ");
     scanf("%d",&n);
