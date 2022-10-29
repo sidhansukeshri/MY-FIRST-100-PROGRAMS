@@ -1,5 +1,6 @@
+//this code prints the greatest number in the three given numbers !
 int main() {
-  printf("My regeistration number is RA2211042010032 !");
+  printf("My regeistration number is RA2211042010032 !\n");
   double num1, num2, num3;
   printf("Enter first number: ");
   scanf("%lf", &num1);
