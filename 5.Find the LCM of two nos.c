@@ -1,6 +1,7 @@
+//this code prints the LCM of two numbers!
 #include <stdio.h>
 int main() {
-    printf("My regeistration number is RA2211042010032 !");
+    printf("My regeistration number is RA2211042010032 !\n");
     int n1, n2, max;
     printf("Enter two positive integers: ");
     scanf("%d %d", &n1, &n2);
